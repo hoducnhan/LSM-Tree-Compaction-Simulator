@@ -1,6 +1,6 @@
 # 📦 LSM-Tree Compaction Simulator & Distributed Log Fragmentation
 
-> **Project ID:** #55 (Category 3)  
+> **Project ID:** #55 (Category 6)  
 > **Course:** Principles of Distributed Database Systems  
 > **Theoretical Framework:** M. Tamer Özsu & Patrick Valduriez  
 
