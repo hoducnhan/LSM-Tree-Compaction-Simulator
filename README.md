@@ -54,11 +54,11 @@ pip install streamlit
 Mở Terminal tại thư mục dự án và thực hiện câu lệnh an toàn:
 ```bash
 python -m streamlit run lsm_app.py
-
-Hệ thống sẽ tự động khởi chạy giao diện đồ họa trực quan trên trình duyệt Web mặc định tại địa chỉ: http://localhost:8501.
+```
+- Hệ thống sẽ tự động khởi chạy giao diện đồ họa trực quan trên trình duyệt Web mặc định tại địa chỉ: http://localhost:8501
 ---
-
 ##🛠️ 6. Tech Stack 
+
 Language: Python
 
 UI Framework: Streamlit (Web-based Interactive Dashboard)
@@ -66,3 +66,4 @@ UI Framework: Streamlit (Web-based Interactive Dashboard)
 Data Format: JSON (Key-Value Immutable SSTables)
 
 Version Control: Git & GitHub
+
